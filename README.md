@@ -1,5 +1,3 @@
-### Hi there 
-
 <h1 align="center">Olá, 👋 sou o João Pedro Florenço!</h1>
 
 - 🔭 Atualmente estagiando na Usina São José da Estiva;
