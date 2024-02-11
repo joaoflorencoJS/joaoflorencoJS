@@ -1,8 +1,8 @@
 <h1 align="center">Olá, 👋 sou o João Pedro Florenço!</h1>
 
-- 🔭 Atualmente estagiando na Usina São José da Estiva;
-- 🌱 Cursando, atualmente, o curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio da ETEC NH (2 / 3);
-- 💻 Apaixonado por programação, aprendendo diversos frameworks com foco em JavaScript, sendo elas: React.js, Strapi, Node.js.
+- 🔭 Atualmente buscando cada vez mais conhecimento;
+- 🌱 Técnico em Desenvolvimento de Sistemas pela ETEC NH; 
+- 💻 Apaixonado por programação, aprendendo diversos frameworks com foco em JavaScript, sendo elas: React.js e Node.js.
 
 <div>
   <a href="https://github.com/joaoflorencoJS">
