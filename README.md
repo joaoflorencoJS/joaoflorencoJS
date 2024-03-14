@@ -1,6 +1,7 @@
 <h1 align="center">Olá, 👋 sou o João Pedro Florenço!</h1>
 
 - 🔭 Atualmente buscando cada vez mais conhecimento;
+- 📖 Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP Câmpus Catanduva 1 / 6;
 - 🌱 Técnico em Desenvolvimento de Sistemas pela ETEC NH; 
 - 💻 Apaixonado por programação, aprendendo diversos frameworks com foco em JavaScript, sendo elas: React.js e Node.js.
 
